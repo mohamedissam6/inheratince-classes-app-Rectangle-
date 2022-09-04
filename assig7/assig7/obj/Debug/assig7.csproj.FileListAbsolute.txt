@@ -1,0 +1,8 @@
+F:\cprj\C#prj\assig7\assig7\bin\Debug\assig7.exe.config
+F:\cprj\C#prj\assig7\assig7\bin\Debug\assig7.exe
+F:\cprj\C#prj\assig7\assig7\bin\Debug\assig7.pdb
+F:\cprj\C#prj\assig7\assig7\obj\Debug\assig7.csproj.AssemblyReference.cache
+F:\cprj\C#prj\assig7\assig7\obj\Debug\assig7.csproj.SuggestedBindingRedirects.cache
+F:\cprj\C#prj\assig7\assig7\obj\Debug\assig7.csproj.CoreCompileInputs.cache
+F:\cprj\C#prj\assig7\assig7\obj\Debug\assig7.exe
+F:\cprj\C#prj\assig7\assig7\obj\Debug\assig7.pdb
